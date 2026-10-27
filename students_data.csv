@@ -1,0 +1,241 @@
+Roll No,Name,Department,Year,Attendance,Marks,Fees,Fee Status,Status
+STU1001,Priya Kumar,Electrical,1,96,42,35000,Pending,Active
+STU1002,Pooja Mishra,Electrical,1,71,60,15000,Pending,Active
+STU1003,Pooja Gupta,Mechanical,1,63,76,15000,Paid,Active
+STU1004,Priya Das,Civil,4,75,81,15000,Paid,Active
+STU1005,Aditya Patel,IT,1,77,85,15000,Paid,Inactive
+STU1006,Amit Mishra,Mechanical,4,72,44,15000,Paid,Active
+STU1007,Rahul Kumar,Electrical,4,63,58,35000,Pending,Active
+STU1008,Ananya Mishra,Computer Science,1,73,37,25000,Paid,Active
+STU1009,Aditya Yadav,Electrical,1,51,34,20000,Paid,Active
+STU1010,Rahul Verma,Civil,2,94,58,15000,Paid,Active
+STU1011,Ananya Yadav,Electrical,3,75,76,25000,Paid,Inactive
+STU1012,Vivaan Gupta,Computer Science,1,63,97,25000,Pending,Active
+STU1013,Aarav Das,Civil,2,100,74,20000,Paid,Active
+STU1014,Rohan Jain,Electrical,2,56,31,35000,Pending,Active
+STU1015,Aarav Das,Civil,3,52,56,30000,Paid,Inactive
+STU1016,Karan Singh,IT,4,96,65,30000,Pending,Active
+STU1017,Karan Patel,IT,1,72,65,25000,Paid,Active
+STU1018,Arjun Jain,Electrical,3,95,55,20000,Paid,Active
+STU1019,Aditya Gupta,Civil,1,92,72,30000,Pending,Active
+STU1020,Aditya Patel,Computer Science,2,96,56,25000,Paid,Inactive
+STU1021,Rahul Jain,Electrical,2,94,98,35000,Pending,Inactive
+STU1022,Priya Verma,IT,4,67,49,30000,Paid,Active
+STU1023,Arjun Jain,IT,2,87,40,25000,Paid,Inactive
+STU1024,Karan Verma,Electrical,2,84,67,25000,Paid,Active
+STU1025,Neha Jain,Civil,3,100,35,15000,Pending,Inactive
+STU1026,Neha Gupta,IT,1,64,52,35000,Paid,Active
+STU1027,Vivaan Kumar,Civil,1,74,76,15000,Paid,Active
+STU1028,Karan Patel,IT,3,86,75,20000,Paid,Active
+STU1029,Karan Mishra,IT,4,77,41,15000,Paid,Active
+STU1030,Riya Singh,Mechanical,1,59,42,15000,Paid,Active
+STU1031,Simran Sharma,IT,2,88,91,30000,Pending,Active
+STU1032,Arjun Verma,Computer Science,1,66,89,25000,Pending,Active
+STU1033,Ananya Kumar,Electrical,2,88,72,35000,Pending,Active
+STU1034,Vivaan Yadav,Electrical,4,71,97,15000,Pending,Active
+STU1035,Rohan Das,Civil,3,75,34,35000,Paid,Active
+STU1036,Arjun Yadav,IT,1,93,66,15000,Pending,Inactive
+STU1037,Pooja Verma,Computer Science,3,74,60,20000,Paid,Active
+STU1038,Neha Verma,Civil,1,66,38,15000,Paid,Active
+STU1039,Neha Kumar,Mechanical,2,62,80,30000,Paid,Active
+STU1040,Simran Mishra,Civil,3,69,58,25000,Paid,Inactive
+STU1041,Simran Patel,Civil,1,74,69,20000,Pending,Active
+STU1042,Karan Jain,IT,2,53,70,15000,Paid,Active
+STU1043,Simran Mishra,Mechanical,3,59,40,35000,Paid,Active
+STU1044,Rahul Verma,Civil,3,52,52,20000,Paid,Inactive
+STU1045,Riya Gupta,Computer Science,1,90,30,20000,Pending,Active
+STU1046,Ananya Das,Computer Science,1,94,75,15000,Paid,Active
+STU1047,Sneha Jain,Electrical,1,67,50,20000,Paid,Active
+STU1048,Pooja Sharma,Mechanical,2,96,65,35000,Paid,Inactive
+STU1049,Sneha Patel,Mechanical,1,85,83,20000,Pending,Active
+STU1050,Sneha Mishra,Electrical,3,96,86,35000,Paid,Active
+STU1051,Aarav Mishra,Civil,3,71,30,15000,Paid,Inactive
+STU1052,Ananya Singh,Mechanical,1,83,92,25000,Paid,Active
+STU1053,Aarav Mishra,Computer Science,1,96,83,20000,Paid,Active
+STU1054,Aditya Singh,Computer Science,4,57,84,25000,Paid,Active
+STU1055,Aarav Gupta,IT,3,89,69,35000,Paid,Active
+STU1056,Neha Patel,Mechanical,2,98,44,20000,Pending,Active
+STU1057,Neha Jain,Civil,4,93,50,30000,Paid,Active
+STU1058,Karan Patel,Electrical,1,68,76,25000,Paid,Active
+STU1059,Sneha Mishra,Electrical,1,91,82,20000,Pending,Active
+STU1060,Karan Verma,Civil,3,90,38,25000,Paid,Inactive
+STU1061,Aarav Patel,IT,1,86,81,20000,Paid,Active
+STU1062,Priya Mishra,Electrical,2,55,86,15000,Paid,Inactive
+STU1063,Rahul Singh,Mechanical,3,75,55,25000,Paid,Active
+STU1064,Karan Mishra,IT,1,83,70,30000,Pending,Inactive
+STU1065,Rohan Singh,Mechanical,3,94,64,30000,Paid,Active
+STU1066,Aarav Singh,Computer Science,1,55,92,35000,Pending,Active
+STU1067,Rahul Singh,IT,1,86,54,20000,Paid,Active
+STU1068,Aarav Gupta,Electrical,1,82,67,25000,Paid,Inactive
+STU1069,Neha Patel,IT,2,71,31,35000,Paid,Active
+STU1070,Riya Patel,IT,2,70,36,25000,Paid,Active
+STU1071,Amit Jain,IT,3,55,63,20000,Paid,Active
+STU1072,Riya Das,IT,1,55,46,30000,Pending,Active
+STU1073,Neha Singh,Mechanical,1,97,72,15000,Paid,Active
+STU1074,Riya Patel,Computer Science,2,53,88,30000,Pending,Active
+STU1075,Aarav Kumar,Civil,1,79,80,35000,Paid,Active
+STU1076,Pooja Kumar,IT,2,60,83,15000,Pending,Active
+STU1077,Simran Gupta,Electrical,1,79,53,35000,Pending,Active
+STU1078,Priya Patel,IT,3,80,54,20000,Pending,Active
+STU1079,Pooja Kumar,Electrical,1,73,100,15000,Pending,Active
+STU1080,Pooja Patel,Mechanical,1,58,81,35000,Pending,Active
+STU1081,Amit Singh,Electrical,4,52,99,20000,Paid,Active
+STU1082,Rohan Verma,Civil,2,100,62,30000,Paid,Active
+STU1083,Neha Jain,Computer Science,1,80,78,20000,Paid,Active
+STU1084,Rahul Yadav,Electrical,1,89,58,25000,Pending,Active
+STU1085,Karan Kumar,Electrical,4,86,92,20000,Paid,Active
+STU1086,Simran Das,Computer Science,4,85,51,20000,Pending,Active
+STU1087,Priya Jain,Civil,2,73,55,25000,Paid,Active
+STU1088,Priya Sharma,IT,4,80,57,35000,Paid,Active
+STU1089,Aarav Jain,Electrical,3,55,78,35000,Paid,Active
+STU1090,Amit Jain,Computer Science,4,51,100,20000,Paid,Active
+STU1091,Arjun Jain,Mechanical,3,69,78,25000,Paid,Active
+STU1092,Aditya Patel,Computer Science,2,77,49,25000,Paid,Active
+STU1093,Rohan Mishra,Mechanical,2,60,92,30000,Paid,Active
+STU1094,Amit Jain,Civil,2,53,90,35000,Paid,Active
+STU1095,Simran Gupta,IT,2,64,78,15000,Paid,Inactive
+STU1096,Aarav Singh,Computer Science,2,55,100,35000,Paid,Active
+STU1097,Neha Mishra,Electrical,3,98,30,35000,Pending,Active
+STU1098,Riya Yadav,Civil,3,79,42,30000,Paid,Active
+STU1099,Ananya Jain,Computer Science,2,87,80,15000,Paid,Active
+STU1100,Arjun Sharma,Electrical,4,100,85,30000,Paid,Active
+STU1101,Simran Sharma,Computer Science,1,51,91,15000,Paid,Active
+STU1102,Neha Kumar,Mechanical,2,64,61,20000,Paid,Active
+STU1103,Karan Patel,Computer Science,4,60,59,15000,Paid,Active
+STU1104,Vivaan Singh,Computer Science,1,57,58,30000,Paid,Active
+STU1105,Aarav Gupta,Computer Science,2,75,78,35000,Paid,Active
+STU1106,Aarav Mishra,Civil,2,100,74,15000,Paid,Active
+STU1107,Aarav Sharma,Computer Science,3,94,59,15000,Pending,Active
+STU1108,Vivaan Verma,Electrical,1,93,45,25000,Pending,Inactive
+STU1109,Karan Yadav,Mechanical,1,54,69,35000,Paid,Active
+STU1110,Priya Gupta,Mechanical,4,55,48,20000,Paid,Active
+STU1111,Aarav Sharma,Computer Science,3,75,47,30000,Paid,Active
+STU1112,Aditya Verma,Civil,3,53,30,20000,Paid,Active
+STU1113,Rahul Das,Civil,3,68,76,35000,Pending,Inactive
+STU1114,Rohan Patel,Electrical,3,69,95,15000,Paid,Active
+STU1115,Arjun Patel,Computer Science,1,82,67,15000,Paid,Inactive
+STU1116,Amit Mishra,Mechanical,1,69,80,35000,Paid,Active
+STU1117,Amit Sharma,Civil,2,98,92,15000,Pending,Inactive
+STU1118,Riya Yadav,Computer Science,2,61,33,15000,Paid,Active
+STU1119,Ananya Gupta,Civil,3,96,30,15000,Paid,Active
+STU1120,Arjun Verma,Civil,3,50,37,30000,Paid,Active
+STU1121,Rohan Yadav,Mechanical,3,75,58,30000,Paid,Active
+STU1122,Amit Sharma,IT,2,63,84,25000,Paid,Active
+STU1123,Sneha Yadav,Electrical,4,87,32,20000,Paid,Active
+STU1124,Pooja Singh,Electrical,4,86,61,35000,Paid,Active
+STU1125,Arjun Kumar,Mechanical,2,60,39,35000,Paid,Active
+STU1126,Aditya Das,Civil,2,85,63,35000,Paid,Active
+STU1127,Aditya Singh,Computer Science,2,62,84,25000,Paid,Active
+STU1128,Arjun Patel,Civil,2,92,61,30000,Paid,Active
+STU1129,Arjun Jain,Mechanical,2,52,79,25000,Paid,Active
+STU1130,Aarav Mishra,Electrical,2,82,36,35000,Pending,Active
+STU1131,Priya Verma,Civil,3,55,37,20000,Paid,Active
+STU1132,Ananya Sharma,Electrical,3,99,94,15000,Paid,Active
+STU1133,Amit Jain,Computer Science,3,59,86,30000,Paid,Active
+STU1134,Sneha Verma,Electrical,3,54,96,30000,Paid,Active
+STU1135,Priya Das,Electrical,2,72,88,25000,Pending,Active
+STU1136,Aditya Patel,IT,4,59,83,30000,Paid,Active
+STU1137,Karan Das,IT,1,93,96,35000,Pending,Active
+STU1138,Sneha Kumar,IT,2,51,80,35000,Paid,Active
+STU1139,Karan Sharma,Electrical,1,62,37,25000,Paid,Active
+STU1140,Vivaan Sharma,Mechanical,4,89,63,35000,Pending,Inactive
+STU1141,Simran Gupta,Electrical,3,51,64,20000,Pending,Active
+STU1142,Rahul Patel,Mechanical,4,69,61,25000,Pending,Active
+STU1143,Sneha Jain,Mechanical,2,50,75,20000,Pending,Active
+STU1144,Aditya Singh,IT,3,86,45,15000,Paid,Active
+STU1145,Aditya Kumar,Civil,2,58,97,20000,Pending,Active
+STU1146,Ananya Yadav,Computer Science,3,66,66,15000,Paid,Inactive
+STU1147,Ananya Sharma,IT,1,58,83,15000,Pending,Active
+STU1148,Ananya Kumar,IT,1,60,43,20000,Paid,Active
+STU1149,Amit Sharma,Civil,1,64,84,25000,Pending,Inactive
+STU1150,Ananya Kumar,Computer Science,4,73,77,35000,Paid,Active
+STU1151,Rohan Mishra,Electrical,2,87,36,35000,Paid,Active
+STU1152,Arjun Singh,Electrical,4,84,36,15000,Paid,Active
+STU1153,Simran Jain,IT,1,79,62,15000,Pending,Active
+STU1154,Aditya Jain,Computer Science,2,80,52,25000,Paid,Active
+STU1155,Pooja Verma,IT,1,98,48,30000,Paid,Inactive
+STU1156,Simran Verma,Mechanical,4,54,48,20000,Paid,Active
+STU1157,Vivaan Yadav,IT,4,93,65,15000,Paid,Active
+STU1158,Aditya Jain,IT,4,99,58,35000,Pending,Active
+STU1159,Arjun Sharma,Electrical,1,63,89,25000,Paid,Active
+STU1160,Arjun Sharma,Electrical,2,60,31,20000,Pending,Active
+STU1161,Simran Gupta,Electrical,2,58,30,25000,Paid,Active
+STU1162,Arjun Mishra,Mechanical,1,83,76,20000,Paid,Active
+STU1163,Ananya Patel,Electrical,2,61,98,20000,Pending,Active
+STU1164,Aditya Sharma,Computer Science,1,84,49,15000,Paid,Active
+STU1165,Aarav Singh,Civil,2,84,40,25000,Paid,Active
+STU1166,Rohan Patel,Computer Science,3,50,31,25000,Paid,Active
+STU1167,Rohan Yadav,Computer Science,3,89,96,35000,Pending,Active
+STU1168,Rohan Singh,Electrical,4,71,41,35000,Paid,Active
+STU1169,Rohan Mishra,Civil,3,78,49,15000,Pending,Inactive
+STU1170,Amit Verma,Civil,3,57,34,15000,Pending,Active
+STU1171,Rahul Sharma,Civil,3,60,66,30000,Paid,Active
+STU1172,Karan Sharma,Mechanical,1,90,67,35000,Paid,Active
+STU1173,Rahul Singh,Electrical,3,86,38,20000,Paid,Active
+STU1174,Arjun Singh,Civil,3,63,82,25000,Paid,Active
+STU1175,Aarav Sharma,Mechanical,4,79,73,15000,Paid,Active
+STU1176,Karan Gupta,IT,3,84,53,25000,Paid,Active
+STU1177,Rohan Singh,IT,3,70,59,25000,Paid,Active
+STU1178,Karan Jain,Mechanical,2,86,88,30000,Pending,Active
+STU1179,Rahul Mishra,Mechanical,4,54,43,35000,Pending,Active
+STU1180,Pooja Sharma,Electrical,4,68,38,15000,Pending,Inactive
+STU1181,Simran Gupta,Electrical,4,63,69,25000,Paid,Active
+STU1182,Riya Singh,IT,4,75,95,15000,Paid,Active
+STU1183,Karan Sharma,Civil,4,53,54,20000,Paid,Active
+STU1184,Arjun Gupta,IT,4,74,51,30000,Pending,Active
+STU1185,Priya Sharma,Civil,1,94,33,20000,Paid,Active
+STU1186,Aditya Verma,Civil,3,91,55,15000,Pending,Active
+STU1187,Sneha Das,Electrical,4,74,87,15000,Paid,Inactive
+STU1188,Riya Yadav,Computer Science,3,67,58,35000,Paid,Active
+STU1189,Neha Singh,Computer Science,3,89,66,25000,Pending,Active
+STU1190,Ananya Mishra,Mechanical,1,57,99,25000,Paid,Active
+STU1191,Vivaan Yadav,Electrical,4,88,47,20000,Pending,Active
+STU1192,Priya Verma,Civil,2,89,71,30000,Pending,Active
+STU1193,Riya Das,Computer Science,1,63,70,25000,Paid,Active
+STU1194,Vivaan Das,Civil,2,81,67,35000,Paid,Active
+STU1195,Aarav Mishra,Computer Science,3,100,63,20000,Paid,Inactive
+STU1196,Aarav Jain,Computer Science,3,87,46,20000,Pending,Active
+STU1197,Amit Yadav,Computer Science,1,82,66,35000,Paid,Active
+STU1198,Priya Das,Electrical,1,72,54,30000,Paid,Active
+STU1199,Priya Das,IT,2,64,56,35000,Paid,Active
+STU1200,Aditya Verma,Civil,4,82,86,30000,Pending,Active
+STU1201,Sneha Mishra,Electrical,2,74,60,35000,Paid,Active
+STU1202,Pooja Das,Electrical,1,66,35,35000,Pending,Active
+STU1203,Priya Jain,Electrical,2,82,69,15000,Pending,Active
+STU1204,Arjun Kumar,Electrical,1,96,41,20000,Paid,Active
+STU1205,Aarav Mishra,Electrical,2,51,82,35000,Paid,Active
+STU1206,Simran Singh,Mechanical,1,63,100,35000,Pending,Inactive
+STU1207,Priya Verma,Civil,1,89,39,25000,Paid,Active
+STU1208,Vivaan Patel,Electrical,1,89,74,20000,Pending,Active
+STU1209,Riya Yadav,Civil,4,100,46,25000,Paid,Active
+STU1210,Aditya Jain,Mechanical,2,88,55,20000,Paid,Active
+STU1211,Neha Yadav,Mechanical,2,100,91,25000,Pending,Active
+STU1212,Neha Das,Civil,2,55,75,35000,Paid,Inactive
+STU1213,Rohan Sharma,Computer Science,1,55,93,35000,Paid,Active
+STU1214,Arjun Das,IT,2,52,31,15000,Paid,Active
+STU1215,Rohan Yadav,Computer Science,2,56,83,25000,Paid,Active
+STU1216,Amit Gupta,Computer Science,1,100,94,30000,Paid,Active
+STU1217,Aarav Mishra,Computer Science,3,57,80,15000,Paid,Active
+STU1218,Rahul Gupta,Electrical,1,91,82,25000,Pending,Active
+STU1219,Priya Kumar,Mechanical,2,64,65,25000,Paid,Inactive
+STU1220,Rohan Kumar,Computer Science,1,96,55,15000,Paid,Active
+STU1221,Simran Singh,Mechanical,3,78,58,35000,Paid,Active
+STU1222,Priya Mishra,Civil,1,82,50,25000,Pending,Active
+STU1223,Arjun Verma,IT,2,79,40,35000,Paid,Active
+STU1224,Karan Das,Civil,3,88,69,15000,Pending,Active
+STU1225,Simran Singh,Civil,4,76,40,35000,Paid,Active
+STU1226,Aarav Mishra,Electrical,2,85,65,20000,Paid,Active
+STU1227,Riya Singh,IT,3,78,88,30000,Paid,Active
+STU1228,Karan Das,Civil,3,87,68,25000,Paid,Active
+STU1229,Priya Das,Civil,4,82,83,30000,Paid,Active
+STU1230,Rahul Das,IT,1,86,84,35000,Paid,Inactive
+STU1231,Rahul Patel,IT,1,76,53,25000,Pending,Active
+STU1232,Riya Jain,Civil,2,82,51,35000,Paid,Active
+STU1233,Karan Gupta,IT,4,53,98,20000,Paid,Active
+STU1234,Aarav Das,Civil,1,71,85,15000,Paid,Inactive
+STU1235,Neha Sharma,Civil,4,51,62,25000,Pending,Inactive
+STU1236,Riya Verma,Electrical,1,59,65,20000,Paid,Active
+STU1237,Simran Yadav,Computer Science,3,54,49,20000,Paid,Active
+STU1238,Sneha Mishra,Civil,1,59,91,25000,Paid,Active
+STU1239,Pooja Gupta,Mechanical,4,82,55,35000,Pending,Active
+STU1240,Aarav Patel,Computer Science,3,87,95,20000,Paid,Active
